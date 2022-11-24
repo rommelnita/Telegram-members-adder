@@ -1,0 +1,22 @@
+{
+  "logo":"https://telegra.ph/file/91003e77f23a2f2a03229.jpg",
+  "name": "Member Adder",
+  "description": "A member adder bot for telegram.",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Enter bot token Get It From @botfather! Please do not steal.",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "value": ""
+    }
+  },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
