@@ -2,7 +2,7 @@
 
 ## 🚀 Heroku Deployment
 ###### Click the button below to deploy on Heroku!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/GodseXD/Telegram-members-adder-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/GodseXD/Telegram-members-adder)
 
 ## 🚀 Okteto Deployment
 ###### Click the button below to deploy on Okteto!
