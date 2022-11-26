@@ -107,7 +107,7 @@ async def phone(lel, message):
       if a>100:
          await app.send_message(message.chat.id, f"**You can add only {100-a} Phone no \n\nMade with ❤️ By @GodseXD**")
          return
-      for i in range (1,n+1):
+      for i in range (62,n+1):
          number = await app.ask(chat_id=message.chat.id, text="**Now Send Your Telegram Account's Phone Number in International Format. \nIncluding **Country Code**. \nExample: **+14154566376 = 14154566376 only not +**\n\nMade with ❤️ By @GodseXD**")
          phone = number.text
          if "+" in phone:
