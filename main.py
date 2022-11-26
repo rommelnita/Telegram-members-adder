@@ -112,7 +112,7 @@ async def phone(lel, message):
          phone = number.text
          if "+" in phone:
             await app.send_message(message.chat.id, """**As Mention + is not include\n\nMade with ❤️ By @GodseXD**""")
-         elif len(phone)==11 or len(phone)==12:
+         elif len(phone)==11 or len(phone)==62:
             Singla = str(phone)
             NonLimited.append(Singla)
             await app.send_message(message.chat.id, f"**{n}). Phone: {phone} Set Sucessfully✅\n\nMade with ❤️ By @GodseXD**")
