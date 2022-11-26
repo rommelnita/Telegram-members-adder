@@ -1,3 +1,4 @@
+mu
 import re, os, random, asyncio, html,configparser,pyrogram, subprocess, requests, time, traceback, logging, telethon, csv, json, sys
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from asyncio.exceptions import TimeoutError
@@ -21,10 +22,10 @@ import csv
 #add_user= query_msg= users_info=0
 if not os.path.exists('./sessions'):
     os.mkdir('./sessions')
-if not os.path.exists(f"Users/2028665763/phone.csv"):
+if not os.path.exists(f"Users/1955509952/phone.csv"):
    os.mkdir('./Users')
    os.mkdir(f'./Users/1955509952')
-   open(f"Users/2028665763/phone.csv","w")
+   open(f"Users/1955509952/phone.csv","w")
 if not os.path.exists('data.csv'):
     open("data.csv","w")
 UPDATES_CHANNEL = "marvelturkey"
