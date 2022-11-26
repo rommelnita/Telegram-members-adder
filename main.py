@@ -1,4 +1,3 @@
-mu
 import re, os, random, asyncio, html,configparser,pyrogram, subprocess, requests, time, traceback, logging, telethon, csv, json, sys
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from asyncio.exceptions import TimeoutError
