@@ -6,7 +6,7 @@
 
 ## 🚀 Okteto Deployment
 ###### Click the button below to deploy on Okteto!
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/GodseXD/Telegram-members-adder&branch=main)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/rommelnita/Telegram-members-adder&branch=main)
 
 ## 🚀 Railway Deployment
 ###### Click the button below to deploy on Railway!
