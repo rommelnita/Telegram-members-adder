@@ -1,5 +1,5 @@
 heroku3
-pyrogram==1.0.7
+pyrogram
 telethon
 pyromod
 tgcrypto
